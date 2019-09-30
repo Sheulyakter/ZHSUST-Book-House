@@ -1,0 +1,162 @@
+<resources>
+
+
+    <string name="exit">Exit</string>
+    <string name="exitmessage">Are You Sure To Exit it? </string>
+
+    <string name="app_name">Book Store</string>
+    <string name="cseString">CSE</string>
+    <string name="bbaString">BBA</string>
+    <string name="lawString">LAW</string>
+    <string name="cheString">CHE</string>
+    <string name="eeeString">EEE</string>
+    <string name="engString">ENG</string>
+    <string name="cvString">CE</string>
+    <string name="meghlaString">Meherunnesa Meghla</string>
+    <string name="sheulyString">Sheuly</string>
+    <string name="polyString">Marena Akter</string>
+    <string name="aboutString">Features</string>
+    <string name="developerString">Developer</string>
+
+
+    <string name="action1">Home</string>
+    <string name="action2">About</string>
+    <string name="action3">Credit</string>
+    <string name="action4">Setting</string>
+    <string name="action5">Exit</string>
+
+
+    <string name="eee1">Physics-I </string>
+    <string name="eee2">Physics-II</string>
+    <string name="eee3">Electrical Circuits-I</string>
+    <string name="eee4">Electrical Circuits-II</string>
+    <string name="eee5">Electrical Circuits Simulation Laboratory</string>
+    <string name="eee6">Electronics-I</string>
+    <string name="eee7">Electrical Machines-II</string>
+    <string name="eee8">Digital Electronics</string>
+    <string name="eee9">Power System-I</string>
+    <string name="eee10">Electrical Services Design</string>
+    <string name="eee11">Electrical Properties of  Material</string>
+    <string name="eee12">Digital Signal Processing-I</string>
+    <string name="eee13">Basic Electrical Technology</string>
+
+
+    <string name="che1">Elements of Chemical Engineering - I</string>
+    <string name="che2">General Chemistry</string>
+    <string name="che3">Mechanics,Properties of Matter,Waves and Optics</string>
+    <string name="che4">Analytical Chemistry</string>
+    <string name="che5">Elements of Chemical Engineering – II</string>
+    <string name="che6">Physical Chemistry -I </string>
+    <string name="che7">Analytical Chemistry  </string>
+    <string name="che8">Fluid Mechanics</string>
+    <string name="che9">Chemical Engineering Thermodynamics</string>
+    <string name="che10">Chemical Process Technology -I</string>
+    <string name="che11">Mechanics of Solid</string>
+    <string name="che12">Chemical Reaction Engineering</string>
+    <string name="che13">Chemical Process Technology – II</string>
+
+
+    <string name="ce1">Engineering Mechanics</string>
+    <string name="ce2">Civil Engineering Drawing I</string>
+    <string name="ce3">Civil Engineering Drawing II</string>
+    <string name="ce4">Serveying</string>
+    <string name="ce5">Practical Surveying</string>
+    <string name="ce6">Engineering Materials</string>
+    <string name="ce7">Engineering Geology and Geomorphology</string>
+    <string name="ce8">Design of Concrete Structured I</string>
+    <string name="ce9">Foundation Engineering</string>
+    <string name="ce10">Transportation Engineering I</string>
+    <string name="ce11">Transportation Engineering II</string>
+    <string name="ce12"> Groundwater Engineering</string>
+    <string name="ce13"> Groundwater Engineering</string>
+    <string name="ce14"> Groundwater Engineering</string>
+    <string name="ce15"> Groundwater Engineering</string>
+
+
+    <string name="bba1">Introduction to Business</string>
+    <string name="bba2">Principles of Accounting</string>
+    <string name="bba3">Principles of Management</string>
+    <string name="bba4">Principles of Marketing</string>
+    <string name="bba5">Business Mathematics</string>
+    <string name="bba6">Business Communications</string>
+    <string name="bba7">Microeconomics</string>
+    <string name="bba8">Marketing Management</string>
+    <string name="bba9">Macroeconomics</string>
+    <string name="bba10">Principles of Finance</string>
+    <string name="bba11">Management Information Systems</string>
+    <string name="bba12">Money and Banking</string>
+    <string name="bba13">Money and Banking</string>
+    <string name="bba14">Money and Banking</string>
+    <string name="bba15">Money and Banking</string>
+
+
+    <string name="eng1">Reading and Writing- I</string>
+    <string name="eng2">Listening and Speaking- I</string>
+    <string name="eng3">Basic Grammar</string>
+    <string name="eng4">Reading and Writing- II</string>
+    <string name="eng5">Grammar in Use</string>
+    <string name="eng6">Listening and Speaking- II</string>
+    <string name="eng7">Advanced Reading</string>
+    <string name="eng8">Advanced Writing</string>
+    <string name="eng9">History of English Language</string>
+    <string name="eng10">English for Professional Purposes</string>
+    <string name="eng11">Romantic Literature</string>
+    <string name="eng12">Romantic Literature</string>
+    <string name="eng13">Romantic Literature</string>
+    <string name="eng14">Romantic Literature</string>
+    <string name="eng15">European Literature in Translation</string>
+
+
+    <string name="law1">Jurisprudence</string>
+    <string name="law2">Law of Contract</string>
+    <string name="law3">Legal History of Bangladesh</string>
+    <string name="law4">Constitutional Laws of Bangladesh</string>
+    <string name="law5">Law of Tort</string>
+    <string name="law6">English for Law</string>
+    <string name="law7">Legal Systems of Bangladesh</string>
+    <string name="law8">Constitutional Laws of UK and US</string>
+    <string name="law9">Muslim Law</string>
+    <string name="law10">Law of Equity and Trust</string>
+    <string name="law11">Islamic Jurisprudence and Law of Inheritance</string>
+    <string name="law12">Hindu Law</string>
+    <string name="law13">Hindu Law</string>
+    <string name="law14">Hindu Law</string>
+    <string name="law15">Hindu Law</string>
+    <string name="law16">Hindu Law</string>
+
+
+    <string name="cse1">Computer Fundamentals and Programming Techniques</string>
+    <string name="cse2">Math-I (Differential and Integral Calculus)</string>
+    <string name="cse3">Structured Programming Language  I</string>
+    <string name="cse4">Math-II (Ordinary and Partial Equations)</string>
+    <string name="cse5">Structured Programming Language  II</string>
+    <string name="cse6">Math-III (Geometry, Complex Variable and Linear Algebra)</string>
+    <string name="cse7">Data Structure</string>
+    <string name="cse8">Math-IV (Matrices and Vector Analysis)</string>
+    <string name="cse9">Algorithms</string>
+    <string name="cse10">Digital Logic Design</string>
+    <string name="cse11">Math-V (Statistics, Laplace and Fourier Transform )</string>
+    <string name="cse12">Discrete Mathematics </string>
+    <string name="cse13">Object Oriented Programming </string>
+    <string name="cse14">Computer Architecture and Organization</string>
+    <string name="cse15">Software Engineering</string>
+    <string name="cse16">Operating System Concepts</string>
+    <string name="cse17">System Analysis and Design</string>
+    <string name="cse18">Microprocessor</string>
+    <string name="cse19">Computer Graphics</string>
+    <string name="cse20">Computer Networks</string>
+    <string name="cse21">Digital Signal and Image  Processing</string>
+
+
+    <string name="Line">__________________________________</string>
+    <string name="LineAVG">_________________________</string>
+
+
+    <string name="list">1. Students can download any lecture notes from this app easily.\n\n2. Students can download the book references by course teachers.\n\n3. It’s helpful to students of all department of ZHSUST.\n\n4. Students can download all books without any cost.
+</string>
+
+    <string name="alamgirSir">Md. Alamgir Kabir\nChief Advisor\nCall: +8801737724418\nE-mail: mjahan@gmail.com\nLecturer,Dept. of CSE,ZHSUST</string>
+    <string name="SheulyAK">Name : Sheuly\nCore Designer and Developer\nCall:+8801907173055\nE-mail: sheulyakter333@gmail.com\n(12th Batch),\tDept. of CSE,ZHSUST</string>
+    <string name="MeghlaAK">Name : Meherunnesa Meghla\nPro. Designer and Developer \nCall: +8801760060214\nE-mail: meghla.cse@gmail.com\n(9th Batch),\tDept. of CSE,ZHSUST</string>
+    <string name="PolyAK">Name : Marena Akter\nPro. Designer\nCall: +8801714578401\nE-mail: poly.cse@gmail.com\n(9th Batch),\tDept. of CSE,ZHSUST</string>
+</resources>
